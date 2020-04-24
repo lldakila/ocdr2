@@ -1,5 +1,5 @@
 ## OCD Region 2 Sample Website
-Made during my on the job training program at the agency using Joomla CMS and the Government Web Template.
+Made using Joomla CMS and the Government Web Template during my on the job training program at the agency.
 
 
 ![](images/homepage/ocdr2_home.png)
